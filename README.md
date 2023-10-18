@@ -1,3 +1,4 @@
 # Java-Game
 
-Java game\\
+Java game
+to run: src/screens/Demarrer.java
